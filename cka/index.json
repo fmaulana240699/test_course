@@ -4,12 +4,7 @@
   "difficulty": "Intermediate",
   "time": "60 minutes",
   "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      }
-    ],
+    "steps": [],
     "intro": {
       "text": "intro.md"
     },
@@ -18,9 +13,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster"
+    "imageid": "kubernetes-cluster-running"
   }
 }
